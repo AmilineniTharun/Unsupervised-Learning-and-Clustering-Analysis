@@ -1,0 +1,18 @@
+{
+  "dataset_rows_used": 200,
+  "features_used": [
+    "Age",
+    "Annual Income (k$)",
+    "Spending Score (1-100)"
+  ],
+  "selected_k": 5,
+  "kmeans_silhouette_score": 0.41664341513732767,
+  "cluster_sizes": {
+    "0": 20,
+    "1": 54,
+    "2": 40,
+    "3": 39,
+    "4": 47
+  },
+  "pca_variance_explained_first_two_components": 0.7757454566976747
+}

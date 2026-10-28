@@ -1,0 +1,3 @@
+Number of Clusters,Silhouette Score,Inertia
+5,0.4166,168.25
+6,0.4284,133.87
